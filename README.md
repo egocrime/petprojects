@@ -1,4 +1,4 @@
-<img width="1587" height="983" alt="изображение" src="https://github.com/user-attachments/assets/dabe565a-af52-45e2-bc94-726a3fb08844" />Два мини проекта
+# Два мини проекта
 
 # Первый проект
 ## Задание 1 - работа с pandas датафреймом (EDA анализ)
